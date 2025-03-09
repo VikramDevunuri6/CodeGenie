@@ -1,0 +1,26 @@
+Prompt: addition of two numbers
+Language: Python
+Timestamp: 2025-03-09 14:58:36
+User: Vikram
+
+--- Generated Code ---
+
+-----------------------------
+
+                # Importing the built-in function for input
+                import builtins
+
+                # Define a function named add_numbers
+                def add_numbers():
+                    # Get two numbers from user
+                    number1 = float(input("Enter the first number: "))
+                    number2 = float(input("Enter the second number: "))
+
+                    # Add the numbers and assign the result to a variable sum
+                    sum = number1 + number2
+
+                    # Display the result
+                    print(f"The sum of {number1} and {number2} is {sum}")
+
+                # Call the function
+                add_numbers()

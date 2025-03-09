@@ -1,0 +1,26 @@
+{
+    "admin": {
+        "password": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+        "email": "admin@codegenie.com",
+        "creation_date": "2025-03-09 11:06:16",
+        "last_login": null
+    },
+    "sk": {
+        "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+        "email": "sk@gmail.com",
+        "creation_date": "2025-03-09 11:11:54",
+        "last_login": "2025-03-09 12:27:25"
+    },
+    "Vikram": {
+        "password": "15e2b0d3c33891ebb0f1ef609ec419420c20e320ce94c65fbc8c3312448eb225",
+        "email": "vikramdevunuri6@gmail.com",
+        "creation_date": "2025-03-09 11:15:22",
+        "last_login": "2025-03-09 14:08:41"
+    },
+    "sardhanalokesh": {
+        "password": "ca87b9eadd595049a2226a7e8199d2c46004d1996a6c53d48cc989b94ba8a19e",
+        "email": "sardhanalokesh@gmail.com",
+        "creation_date": "2025-03-09 12:58:22",
+        "last_login": "2025-03-09 12:58:45"
+    }
+}
